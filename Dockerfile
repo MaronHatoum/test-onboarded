@@ -1,3 +1,3 @@
-from ubuntu:focal
+from ubuntu:jammy
 
 run date
